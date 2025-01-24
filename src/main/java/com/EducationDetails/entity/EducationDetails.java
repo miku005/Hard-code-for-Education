@@ -21,7 +21,6 @@ public class EducationDetails {
     public void setName(String name) {
         this.name = name;
     }
-
     public String getDegree() {
         return degree;
     }
